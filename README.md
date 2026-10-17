@@ -1,8 +1,20 @@
 # Wijhati — Projet de réservation React
 
-
-  <a href="[[https://sparkling-fudge-6091e1.netlify.app/](https://resilient-hamster-e3550d.netlify.app/#why)](https://resilient-hamster-e3550d.netlify.app)">
+<p align="center">
+  <a href="https://resilient-hamster-e3550d.netlify.app">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-0066FF?style=for-the-badge&logo=netlify" alt="Live Demo">
   </a>
+</p>
+
+<h1 align="center">🚌 Wijhati</h1>
+
+<p align="center">
+  A Simple and Modern Bus Booking Website
+</p>
+
+<p align="center">
+  My First React Web Development Project 🚀
+</p>
 
 
 Projet pédagogique de réservation d'autocars au Maroc. Wijhati est le nom de ce projet de démonstration ; il n'est pas relié à un opérateur de transport officiel.

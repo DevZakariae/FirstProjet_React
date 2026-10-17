@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="[[https://sparkling-fudge-6091e1.netlify.app/](https://resilient-hamster-e3550d.netlify.app/#why)](https://resilient-hamster-e3550d.netlify.app)">
-    <img src="[https://img.shields.io/badge/Live%20Demo-Visit%20Website-black?style=for-the-badge](https://resilient-hamster-e3550d.netlify.app)&logo=netlify" alt="Live Demo">
   </a>
 </p>
 

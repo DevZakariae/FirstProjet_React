@@ -9,10 +9,6 @@
 <h1 align="center">🚌 Wijhati</h1>
 
 <p align="center">
-  A Simple and Modern Bus Booking Website
-</p>
-
-<p align="center">
   My First React Web Development Project 🚀
 </p>
 
